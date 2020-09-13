@@ -11,7 +11,7 @@ on salaries.emp_no=employees.emp_no;
 select*
 from employees
 where hire_date>='1985-12-31'
-and hire_date<='1987-01-01';
+and hire_date<'1987-01-01';
 
 
 /*3. List the manager of each department with the following information: 
