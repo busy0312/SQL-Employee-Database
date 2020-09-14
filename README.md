@@ -1,4 +1,4 @@
-# W9_SQL
+# SQL-Employee Database
 
 Employee Database: A Mystery in Two Parts
 ![sql.png](sql.png)
